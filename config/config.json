@@ -10,8 +10,8 @@
       "require": true,
       "rejectUnauthorized": false
     }
-}
-  },
+  }
+},
   "test": {
     "username": "root",
     "password": null,
@@ -29,6 +29,6 @@
       "ssl": {
       "require": true,
       "rejectUnauthorized": false
+      }
     }
   }
-}
